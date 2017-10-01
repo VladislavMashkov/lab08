@@ -1,4 +1,4 @@
-<фрагмент_вставки_значка>
+https://travis-ci.org/VladislavMashkov/lab05.svg?branch=master
 ## Laboratory work III
 Машков Владислав ИУ8-33
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
