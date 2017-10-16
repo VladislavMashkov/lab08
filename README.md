@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/VladislavMashkov/lab05.svg?branch=master)](https://travis-ci.org/VladislavMashkov/lab05)
+[![Build Status](https://travis-ci.org/VladislavMashkov/lab06.svg?branch=master)](https://travis-ci.org/VladislavMashkov/lab06)
 ## Laboratory work III
 Машков Владислав ИУ8-33
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
